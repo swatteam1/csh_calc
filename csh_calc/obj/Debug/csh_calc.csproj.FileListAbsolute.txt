@@ -1,0 +1,40 @@
+C:\Users\Евгений\source\repos\csh_calc\csh_calc\bin\Debug\csh_calc.exe.config
+C:\Users\Евгений\source\repos\csh_calc\csh_calc\bin\Debug\csh_calc.exe
+C:\Users\Евгений\source\repos\csh_calc\csh_calc\bin\Debug\csh_calc.pdb
+C:\Users\Евгений\source\repos\csh_calc\csh_calc\obj\Debug\csh_calc.csprojResolveAssemblyReference.cache
+C:\Users\Евгений\source\repos\csh_calc\csh_calc\obj\Debug\csh_calc.Form1.resources
+C:\Users\Евгений\source\repos\csh_calc\csh_calc\obj\Debug\csh_calc.Properties.Resources.resources
+C:\Users\Евгений\source\repos\csh_calc\csh_calc\obj\Debug\csh_calc.csproj.GenerateResource.Cache
+C:\Users\Евгений\source\repos\csh_calc\csh_calc\obj\Debug\csh_calc.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\csh_calc\csh_calc\obj\Debug\csh_calc.exe
+C:\Users\Евгений\source\repos\csh_calc\csh_calc\obj\Debug\csh_calc.pdb
+D:\Курсач\csh_calc\csh_calc\bin\Debug\csh_calc.exe.config
+D:\Курсач\csh_calc\csh_calc\bin\Debug\csh_calc.exe
+D:\Курсач\csh_calc\csh_calc\bin\Debug\csh_calc.pdb
+D:\Курсач\csh_calc\csh_calc\obj\Debug\csh_calc.csprojResolveAssemblyReference.cache
+D:\Курсач\csh_calc\csh_calc\obj\Debug\csh_calc.Form1.resources
+D:\Курсач\csh_calc\csh_calc\obj\Debug\csh_calc.Properties.Resources.resources
+D:\Курсач\csh_calc\csh_calc\obj\Debug\csh_calc.csproj.GenerateResource.Cache
+D:\Курсач\csh_calc\csh_calc\obj\Debug\csh_calc.csproj.CoreCompileInputs.cache
+D:\Курсач\csh_calc\csh_calc\obj\Debug\csh_calc.exe
+D:\Курсач\csh_calc\csh_calc\obj\Debug\csh_calc.pdb
+F:\Курсач\csh_calc\csh_calc\obj\Debug\csh_calc.csprojResolveAssemblyReference.cache
+F:\Курсач\csh_calc\csh_calc\obj\Debug\csh_calc.Form1.resources
+F:\Курсач\csh_calc\csh_calc\obj\Debug\csh_calc.Properties.Resources.resources
+F:\Курсач\csh_calc\csh_calc\obj\Debug\csh_calc.csproj.GenerateResource.Cache
+F:\Курсач\csh_calc\csh_calc\obj\Debug\csh_calc.csproj.CoreCompileInputs.cache
+F:\Курсач\csh_calc\csh_calc\obj\Debug\csh_calc.exe
+F:\Курсач\csh_calc\csh_calc\obj\Debug\csh_calc.pdb
+F:\Курсач\csh_calc\csh_calc\bin\Debug\csh_calc.exe.config
+F:\Курсач\csh_calc\csh_calc\bin\Debug\csh_calc.exe
+F:\Курсач\csh_calc\csh_calc\bin\Debug\csh_calc.pdb
+D:\Cloud Mail.Ru\Универ\Информатика\Курсач\csh_calc\csh_calc\csh_calc\bin\Debug\csh_calc.exe.config
+D:\Cloud Mail.Ru\Универ\Информатика\Курсач\csh_calc\csh_calc\csh_calc\bin\Debug\csh_calc.exe
+D:\Cloud Mail.Ru\Универ\Информатика\Курсач\csh_calc\csh_calc\csh_calc\bin\Debug\csh_calc.pdb
+D:\Cloud Mail.Ru\Универ\Информатика\Курсач\csh_calc\csh_calc\csh_calc\obj\Debug\csh_calc.csprojResolveAssemblyReference.cache
+D:\Cloud Mail.Ru\Универ\Информатика\Курсач\csh_calc\csh_calc\csh_calc\obj\Debug\csh_calc.Form1.resources
+D:\Cloud Mail.Ru\Универ\Информатика\Курсач\csh_calc\csh_calc\csh_calc\obj\Debug\csh_calc.Properties.Resources.resources
+D:\Cloud Mail.Ru\Универ\Информатика\Курсач\csh_calc\csh_calc\csh_calc\obj\Debug\csh_calc.csproj.GenerateResource.Cache
+D:\Cloud Mail.Ru\Универ\Информатика\Курсач\csh_calc\csh_calc\csh_calc\obj\Debug\csh_calc.csproj.CoreCompileInputs.cache
+D:\Cloud Mail.Ru\Универ\Информатика\Курсач\csh_calc\csh_calc\csh_calc\obj\Debug\csh_calc.exe
+D:\Cloud Mail.Ru\Универ\Информатика\Курсач\csh_calc\csh_calc\csh_calc\obj\Debug\csh_calc.pdb
