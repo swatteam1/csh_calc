@@ -13,7 +13,7 @@
             InitializeComponent();
         }
         const double maxch = 12; //количество символов
-
+		//wadsfdfhgjhkjlikl
         //constant
         string command;
         double ch1;
